@@ -36,7 +36,7 @@
 #include <BALL/MATHS/plane3.h>
 #include <BALL/MATHS/analyticalGeometry.h>
 
-#include <gl.h>
+#include <GL/gl.h>
 
 # include <BALL/VIEW/RENDERING/vertexBuffer.h>
 
